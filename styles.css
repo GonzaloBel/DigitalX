@@ -174,12 +174,10 @@ body {
   }
 }
 
-/*delete button product*/
 .delete-product {
   cursor: pointer;
 }
 
-/*CarritoCounter*/
 .cantidad-carrito {
   background-color: red;
   color: white;
