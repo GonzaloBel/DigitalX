@@ -1,0 +1,64 @@
+[
+  {
+    "id": "Iphone 11",
+    "titulo": "Iphone 11",
+    "imagen": "https://i5.walmartimages.com.mx/mg/gm/1p/images/product-images/img_large/00750622733527l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "categoria": {
+      "nombre": "Iphone",
+      "id": "Iphone"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "Iphone 13 Max",
+    "titulo": "Iphone 13 Max",
+    "imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-graphite-2023?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1679072989055",
+    "categoria": {
+      "nombre": "Iphone",
+      "id": "Iphone"
+    },
+    "precio": 4000
+  },
+
+  {
+    "id": "Samsung S20",
+    "titulo": "Samsung S20",
+    "imagen": "https://tienda.movistar.com.ar/media/catalog/product/cache/1d01ed3f1ecf95fcf479279f9ae509ad/s/2/s20-azul-frente_1.png",
+    "categoria": {
+      "nombre": "Samsung",
+      "id": "Samsung"
+    },
+    "precio": 3500
+  },
+  {
+    "id": "Samsung S22 ULTRA",
+    "titulo": "Samsung S22 ULTRA",
+    "imagen": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-2.jpg",
+    "categoria": {
+      "nombre": "Samsung",
+      "id": "Samsung"
+    },
+    "precio": 4000
+  },
+
+  {
+    "id": "Motorola Edge 30 Ultra",
+    "titulo": "Motorola Edge 30 Ultra",
+    "imagen": "https://armoto.vtexassets.com/arquivos/ids/163037/motorola_edge30neo_family_Onyx_black_1.png?v=638096780790270000",
+    "categoria": {
+      "nombre": "Motorola",
+      "id": "Motorola"
+    },
+    "precio": 3000
+  },
+  {
+    "id": "Motorola G42",
+    "titulo": "Motorola G42",
+    "imagen": "https://www.naldo.com.ar/medias/405883-7-515Wx515H?context=bWFzdGVyfHJvb3R8MTA4NDN8aW1hZ2UvanBlZ3xoZGMvaDRhLzk2NjYyNjMyMjAyNTQuanBnfDVmMTNkOTU1MDI3NjA0Yjc0N2UwMmVjNmNkMjM0MGY4NzczNjgzNjViYjNlYmJhZDQ5OTE1NGJhMzNmZmY1MDE",
+    "categoria": {
+      "nombre": "Motorola",
+      "id": "Motorola"
+    },
+    "precio": 1500
+  }
+]
